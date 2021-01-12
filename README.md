@@ -42,7 +42,7 @@ Your app is ready to be deployed!
 
 # Technologies Used
 - React
-- Edamam API
+- [Edamam API](https://developer.edamam.com)
 
 # Contact Information
 karimajohn24@gmail.com
