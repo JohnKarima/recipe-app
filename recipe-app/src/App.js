@@ -19,7 +19,7 @@ const App = () => {
         <div className="App">
             <form className="search-form">
                 <input className="search-bar" type="text"></input>
-                <button className="search-button" type="submit">Submit</button>
+                <button className="search-button" type="submit">Submit for recipe</button>
             </form>
         </div>
     )
